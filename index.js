@@ -21,4 +21,4 @@ io.on("connection", (socket) => {
 	});
 });
 
-io.listen(process.env.PORT || 9977);
+//io.listen(process.env.PORT || 9977);
